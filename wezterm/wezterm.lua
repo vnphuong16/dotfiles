@@ -33,6 +33,8 @@ config.window_padding = {
     bottom = 0,
 }
 
+config.window_close_confirmation = 'NeverPrompt'
+
 -- Default terminal size (in character columns/rows)
 config.initial_cols = 120
 config.initial_rows = 30
